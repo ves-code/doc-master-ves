@@ -1,0 +1,6 @@
+<map id="PLMD::ActionShortcut" name="PLMD::ActionShortcut">
+<area shape="rect" id="node3" href="$class_p_l_m_d_1_1analysis_1_1_wham_histogram.html" title="Provides the keyword WHAM_HISTOGRAM &#160;" alt="" coords="5,155,227,181"/>
+<area shape="rect" id="node4" href="$class_p_l_m_d_1_1analysis_1_1_wham_weights.html" title="Provides the keyword WHAM_WEIGHTS &#160;" alt="" coords="251,155,460,181"/>
+<area shape="rect" id="node5" href="$class_p_l_m_d_1_1dimred_1_1_sketch_map.html" title="Provides the keyword SKETCH_MAP &#160;" alt="" coords="485,155,664,181"/>
+<area shape="rect" id="node2" href="$class_p_l_m_d_1_1_action.html" title="Base class for all the input Actions. " alt="" coords="304,5,408,32"/>
+</map>

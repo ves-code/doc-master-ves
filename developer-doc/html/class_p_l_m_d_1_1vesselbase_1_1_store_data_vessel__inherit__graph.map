@@ -1,0 +1,5 @@
+<map id="PLMD::vesselbase::StoreDataVessel" name="PLMD::vesselbase::StoreDataVessel">
+<area shape="rect" id="node3" href="$class_p_l_m_d_1_1adjmat_1_1_adjacency_matrix_vessel.html" title="PLMD::adjmat::AdjacencyMatrix\lVessel" alt="" coords="5,171,215,213"/>
+<area shape="rect" id="node4" href="$class_p_l_m_d_1_1mapping_1_1_trigonometric_path_vessel.html" title="PLMD::mapping::Trigonometric\lPathVessel" alt="" coords="240,171,443,213"/>
+<area shape="rect" id="node2" href="$class_p_l_m_d_1_1vesselbase_1_1_vessel.html" title="PLMD::vesselbase::Vessel" alt="" coords="135,5,316,32"/>
+</map>

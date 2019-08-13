@@ -1,0 +1,11 @@
+<map id="PLMD::Matrix&lt; T &gt;" name="PLMD::Matrix&lt; T &gt;">
+<area shape="rect" id="node4" href="$class_p_l_m_d_1_1_matrix.html" title="PLMD::Matrix\&lt; double \&gt;" alt="" coords="1045,25,1211,52"/>
+<area shape="rect" id="node5" href="$class_p_l_m_d_1_1_matrix.html" title="PLMD::Matrix\&lt; PLMD\l::SwitchingFunction \&gt;" alt="" coords="1052,77,1204,118"/>
+<area shape="rect" id="node6" href="$class_p_l_m_d_1_1_matrix.html" title="PLMD::Matrix\&lt; std::\lpair\&lt; unsigned, unsigned \&gt; \&gt;" alt="" coords="1033,142,1223,183"/>
+<area shape="rect" id="node7" href="$class_p_l_m_d_1_1_matrix.html" title="PLMD::Matrix\&lt; std::\lvector\&lt; PLMD::KernelFunctions \&gt; \&gt;" alt="" coords="1011,207,1245,249"/>
+<area shape="rect" id="node8" href="$class_p_l_m_d_1_1_matrix.html" title="PLMD::Matrix\&lt; unsigned \&gt;" alt="" coords="1039,273,1217,300"/>
+<area shape="rect" id="node9" href="$class_p_l_m_d_1_1_matrix.html" title="PLMD::Matrix\&lt; std::\lvector\&lt; PLMD::VectorGeneric \&gt; \&gt;" alt="" coords="1017,325,1239,366"/>
+<area shape="rect" id="node10" href="$class_p_l_m_d_1_1_matrix.html" title="PLMD::Matrix\&lt; PLMD\l::pamm::HBPammObject \&gt;" alt="" coords="1037,390,1219,431"/>
+<area shape="rect" id="node2" href="$class_p_l_m_d_1_1_matrix_square_brackets_access.html" title="PLMD::MatrixSquareBrackets\lAccess\&lt; Matrix\&lt; T \&gt;, T \&gt;" alt="" coords="366,207,562,249"/>
+<area shape="rect" id="node3" href="$class_p_l_m_d_1_1_matrix_square_brackets_access.html" title=" Utility class to add [][] access " alt="" coords="6,207,202,249"/>
+</map>

@@ -1,0 +1,8 @@
+Tue Aug 13 10:11:11 UTC 2019
+Running regtest in /home/travis/build/ves-code/plumed2-ves/regtest/pamm/rt-hbpamm
+++ Test type: driver
+++ Arguments: --plumed plumed.dat --ixyz b3lyp.xyz
+++ Processors: 0
+WARNING using plumed from /home/travis/opt/lib/plumed
+/home/travis/build/ves-code/plumed2-ves/regtest/pamm/rt-hbpamm/tmp
+Checking for pamm

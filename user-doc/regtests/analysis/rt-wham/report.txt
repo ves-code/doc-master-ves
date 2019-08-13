@@ -1,0 +1,7 @@
+Tue Aug 13 10:00:06 UTC 2019
+Running regtest in /home/travis/build/ves-code/plumed2-ves/regtest/analysis/rt-wham
+++ Test type: driver
+++ Arguments: --mf_xtc alltraj.xtc --multi 6
+++ Processors: 6
+WARNING using plumed from /home/travis/opt/lib/plumed
+/home/travis/build/ves-code/plumed2-ves/regtest/analysis/rt-wham/tmp

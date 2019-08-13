@@ -1,0 +1,7 @@
+Tue Aug 13 10:03:03 UTC 2019
+Running regtest in /home/travis/build/ves-code/plumed2-ves/regtest/basic/rt-fix-371b
+++ Test type: plumed
+++ Arguments: pdbrenumber --ipdb in.pdb --opdb out.pdb --firstatomnumber 99999
+++ Processors: 0
+WARNING using plumed from /home/travis/opt/lib/plumed
+/home/travis/build/ves-code/plumed2-ves/regtest/basic/rt-fix-371b/tmp
